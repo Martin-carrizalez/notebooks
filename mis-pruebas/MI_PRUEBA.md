@@ -7,6 +7,7 @@
 - Resultado: `mi_conteo_ultralytics.mp4`
 
 ## Conteo por clase (región central del video)
+
 - cup: IN 1 / OUT 1
 - refrigerator: IN 1 / OUT 0
 - bottle: IN 0 / OUT 1
